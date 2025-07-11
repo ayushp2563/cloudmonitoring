@@ -1,0 +1,14 @@
+# Query for all application logs
+resource.type="cloud_run_revision" AND resource.labels.service_name="monitoring-demo"
+
+# Query for error logs
+resource.type="cloud_run_revision" AND jsonPayload.level="error"
+
+# Query for slow requests (>1 second)
+resource.type="cloud_run_revision" AND jsonPayload.duration>1
+
+# Query for HTTP 5xx errors
+resource.type="cloud_run_revision" AND jsonPayload.statusCode>=500
+
+# Query for high CPU usage periods
+resource.type="cloud_run_revision" AND jsonPayload.message:"CPU-intensive"

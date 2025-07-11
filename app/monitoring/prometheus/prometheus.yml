@@ -1,0 +1,29 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+rule_files:
+  - "alert-rules.yml"
+
+scrape_configs:
+  - job_name: 'cloud-monitoring-demo'
+    static_configs:
+      - targets: ['SERVICE_URL_PLACEHOLDER']
+    scheme: https
+    metrics_path: /metrics
+    scrape_interval: 30s
+    scrape_timeout: 10s
+    
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets:
+          - alertmanager:9093
+
+## Replace placeholder with actual service URL
+#SERVICE_URL=$(cat ../../SERVICE_URL.txt | sed 's|https://monitoring-demo-mybnkizg6a-uc.a.run.app/||')
+#sed -i "s/SERVICE_URL_PLACEHOLDER/$SERVICE_URL/g" prometheus.yml
