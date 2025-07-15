@@ -14,3 +14,7 @@
 {"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-04T21:53:20.382Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
 {"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-04T21:53:27.081Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
 {"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-04T21:53:29.635Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-07-11T20:43:25.194Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-07-11T20:46:50.515Z"}
+{"duration":0.006,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-11T20:47:09.631Z","url":"/health","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.5624"}
+{"duration":0.005,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-11T20:47:10.580Z","url":"/metrics","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.5624"}

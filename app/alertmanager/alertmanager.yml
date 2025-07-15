@@ -1,20 +1,24 @@
 global:
-  smtp_smarthost: 'localhost:587'
+  smtp_smarthost: 'smtp.gmail.com:587'
   smtp_from: 'alerts@example.com'
+  smtp_auth_username: 'helpingrobot617@gmail.com'
+  smtp_auth_password: 'your_app_password'
+  smtp_require_tls: true
 
 route:
   group_by: ['alertname']
   group_wait: 10s
   group_interval: 10s
   repeat_interval: 1h
-  receiver: 'web.hook'
+  receiver: 'email.team'
 
 receivers:
-  - name: 'web.hook'
+  - name: 'email.team'
     email_configs:
-      - to: 'team@example.com'
-        subject: 'Alert: {{ .GroupLabels.alertname }}'
-        body: |
+      - to: 'helpingrobot617@gmail.com'
+        headers:
+          Subject: "Alert: {{ .CommonLabels.alertname }}"
+        text: |
           {{ range .Alerts }}
           Alert: {{ .Annotations.summary }}
           Description: {{ .Annotations.description }}

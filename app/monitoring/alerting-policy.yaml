@@ -2,21 +2,22 @@ displayName: "QoS Monitoring Alerts"
 documentation:
   content: "Alerts for QoS metrics monitoring"
   mimeType: "text/markdown"
+combiner: OR
 conditions:
   - displayName: "High Response Time"
     conditionThreshold:
       filter: 'resource.type="cloud_run_revision" AND metric.type="run.googleapis.com/request_latencies"'
-      comparison: COMPARISON_GREATER_THAN
+      comparison: COMPARISON_GT
       thresholdValue: 1000
       duration: 300s
       aggregations:
         - alignmentPeriod: 300s
-          perSeriesAligner: ALIGN_MEAN
+          perSeriesAligner: ALIGN_PERCENTILE_95
           crossSeriesReducer: REDUCE_MEAN
   - displayName: "High Error Rate"
     conditionThreshold:
       filter: 'resource.type="cloud_run_revision" AND metric.type="run.googleapis.com/request_count"'
-      comparison: COMPARISON_GREATER_THAN
+      comparison: COMPARISON_GT
       thresholdValue: 0.05
       duration: 300s
       aggregations:
