@@ -18,3 +18,330 @@
 {"level":"info","message":"Server running on port 3000","timestamp":"2025-07-11T20:46:50.515Z"}
 {"duration":0.006,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-11T20:47:09.631Z","url":"/health","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.5624"}
 {"duration":0.005,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-11T20:47:10.580Z","url":"/metrics","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.5624"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-07-16T19:42:41.093Z"}
+{"duration":0.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T19:42:52.684Z","url":"/?v=1731923500196","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T19:42:52.688Z","url":"/?v=1731923500196","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T19:42:52.775Z","url":"/?v=1731923500196","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T19:42:52.779Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T19:42:52.783Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T19:42:52.786Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T19:42:54.693Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T19:42:56.709Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T19:43:25.760Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-07-16T20:23:39.225Z"}
+{"duration":0.015,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T20:24:10.229Z","url":"/?v=1731923500196","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T20:24:10.235Z","url":"/?v=1731923500196","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T20:24:10.240Z","url":"/?v=1731923500196","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T20:24:10.245Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T20:24:10.249Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T20:24:10.253Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T20:24:11.664Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T20:24:13.524Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.007,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:24:29.484Z","url":"/metrics","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.5624"}
+{"duration":0.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":404,"timestamp":"2025-07-16T20:24:42.767Z","url":"/","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.059,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.587Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.048,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.598Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.073,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.619Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.023,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.622Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.084,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.635Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.101,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.651Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.067,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.667Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.016,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.669Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.046,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.683Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.079,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.702Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.089,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.713Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.058,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.729Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.056,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.759Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.091,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.761Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.045,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.775Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.091,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.777Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.091,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.806Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.059,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.822Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.061,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.824Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.055,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.837Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.074,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.856Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.013,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.870Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.061,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.899Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.092,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.902Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.078,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.903Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.08,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.906Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.008,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.914Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.089,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.960Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.015,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.976Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.064,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.979Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:25.981Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.105,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.010Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.105,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.012Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.108,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.013Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.032,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.014Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.04,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.020Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.021Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.035,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.054Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.05,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.069Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.078,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.100Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.083,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.101Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.033,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.103Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.011,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.115Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.094,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.116Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.013,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.130Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.028,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.132Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.099,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.161Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.074,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.192Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.045,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.207Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.104,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.208Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.076,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.209Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.078,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.211Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.223Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.03,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.224Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.014,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.239Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.029,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.254Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.088,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.300Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.088,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.301Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.091,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.303Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.091,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.346Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.107,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.347Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.350Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.057,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.361Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.088,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.392Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.104,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.408Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.059,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.410Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.049,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.412Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.024,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.438Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.028,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.441Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.096,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.444Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.06,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.454Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.03,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.470Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.057,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.472Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.039,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.486Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.052,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.500Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.059,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.531Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.049,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.536Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.091,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.546Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.014,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.561Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.061,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.562Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.04,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.578Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.043,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.579Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.107,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.580Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.594Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.029,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.611Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.045,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.640Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.109,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.672Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.094,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.675Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.09,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.702Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.063,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.704Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.029,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.705Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.718Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.041,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.747Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.046,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.749Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.762Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.105,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.824Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.104,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.856Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.047,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.872Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.076,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.932Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":0.016,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:26:26.949Z","url":"/api/users","userAgent":"hey/0.0.1"}
+{"duration":2.039,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:27:58.437Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.049,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:27:58.456Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.05,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:27:58.457Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.049,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:27:58.459Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.051,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:27:58.461Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:00.484Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:00.485Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.005,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:00.487Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.006,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:00.488Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.007,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:00.489Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.005,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:02.495Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.007,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:02.497Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.009,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:02.499Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.009,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:02.500Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.01,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:02.501Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.014,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:04.524Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.015,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:04.525Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.016,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:04.527Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.017,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:04.528Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.018,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:04.529Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.011,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:06.541Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.009,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:06.543Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.011,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:06.545Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:06.546Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:06.547Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.013,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:08.561Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.014,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:08.563Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.015,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:08.564Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.017,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:08.566Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.019,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:08.568Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.009,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:10.578Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.011,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:10.580Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.011,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:10.581Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:10.582Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.013,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:10.583Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.01,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:12.594Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.011,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:12.595Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:12.596Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.013,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:12.597Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:12.598Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.016,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:14.614Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.017,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:14.616Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.018,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:14.617Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.019,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:14.618Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.02,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:14.619Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.623Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.625Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.005,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.626Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.006,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.627Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":2.007,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.629Z","url":"/api/slow","userAgent":"hey/0.0.1"}
+{"duration":0.011,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.801Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.803Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.805Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.807Z"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.809Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.811Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.813Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.814Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.815Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.817Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.818Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.819Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.820Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.821Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.822Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.823Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.824Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.826Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.827Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.829Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.832Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.833Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.834Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.835Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.836Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.837Z"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.837Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.838Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.840Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.841Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.841Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.842Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.844Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.845Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.845Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.846Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.847Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.847Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.848Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.849Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.850Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.852Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.853Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.853Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.854Z"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.854Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.855Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.856Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.857Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.858Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.860Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.861Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.863Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.864Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.865Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.866Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.867Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.868Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.871Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.873Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.874Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.875Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.878Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.879Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.880Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.880Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.882Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.882Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.883Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.883Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.884Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.886Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.887Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.888Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.889Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.890Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.891Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.893Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.894Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.895Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.896Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.897Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.897Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.898Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.900Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.903Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.903Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.904Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.905Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.907Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.908Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.909Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.910Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.911Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.912Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.913Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.914Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.915Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.916Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.917Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.919Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.921Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.922Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.924Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.925Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.929Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.929Z"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.933Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.935Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.937Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.938Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.939Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.940Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.941Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.943Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.944Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.945Z"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.947Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.948Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.949Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.951Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"level":"error","message":"Simulated error occurred","timestamp":"2025-07-16T20:28:16.952Z"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":500,"timestamp":"2025-07-16T20:28:16.953Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.955Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.001,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.957Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:16.959Z","url":"/api/error","userAgent":"hey/0.0.1"}
+{"duration":0.012,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.046Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.051Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.054Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.005,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.060Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.063Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.068Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.072Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.075Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.005,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.080Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.083Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.088Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.092Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.096Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.099Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.104Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.108Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.111Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.116Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.121Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.002,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.125Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.128Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.005,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.133Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.137Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.141Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.146Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.150Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.154Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.159Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.004,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.164Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
+{"duration":0.003,"level":"info","message":"HTTP Request","method":"GET","statusCode":200,"timestamp":"2025-07-16T20:28:17.167Z","url":"/api/cpu-intensive","userAgent":"hey/0.0.1"}
