@@ -24,6 +24,3 @@ alerting:
         - targets:
           - alertmanager:9093
 
-## Replace placeholder with actual service URL
-#SERVICE_URL=$(cat ../../SERVICE_URL.txt | sed 's|https://monitoring-demo-mybnkizg6a-uc.a.run.app/||')
-#sed -i "s/SERVICE_URL_PLACEHOLDER/$SERVICE_URL/g" prometheus.yml
